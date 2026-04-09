@@ -5,6 +5,8 @@
 [![GitHub stars](https://img.shields.io/github/stars/nelsambrose/Financial-IT-Architecture-Principles?style=social)](https://github.com/nelsambrose/Financial-IT-Architecture-Principles/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/nelsambrose/Financial-IT-Architecture-Principles)](https://github.com/nelsambrose/Financial-IT-Architecture-Principles/commits/main)
 
+**Version 1.0 — April 2026**
+
 > A comprehensive free reference guide to IT architecture principles for banking and financial institutions — covering security, scalability, regulatory compliance, cloud-native design, and more.
 
 **[Download the full PDF — free](./Guiding%20Principles%20for%20IT%20Architectures%20in%20Finance.pdf)**
